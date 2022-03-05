@@ -10,7 +10,7 @@ ktw23723@gmail.com|
 |IT 교육|  
 Tableau Software 프로그램을 활용해 범주형 데이터와 수치형 데이터 등을 구분하여 시각화 연습  <br>
 
-|수상|
+|수상|<br>
 |2018년 SCUDEM Student Competition Using Differential Equation Modeling 입선
 
 
