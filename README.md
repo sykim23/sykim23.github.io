@@ -21,14 +21,3 @@ Tableau Software 프로그램을 활용해 범주형 데이터와 수치형 데�
 |||||
 |||||
 |||||      
-
-
-
-## 2. 나의 소개 발표 동영상
-나의 소개 동영상입니다.
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/reOGfxYJre0" frameborder="0"></iframe>
-
-<video width="500" src="gmkopo.mp4" autoplay controls loop muted></video><br><br>
-
- 
-[발표자료<img src="ppt.JPG"/>](/project.pptx)<br>
