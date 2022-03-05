@@ -1,6 +1,5 @@
 # 김선영의 github 홈페이지 <br>
 
-<hr>
 |연락처 | ktw23723@gmail.com|
 |자격증| 
 || 2021년 SQLD |
