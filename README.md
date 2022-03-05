@@ -1,9 +1,9 @@
 # 김선영의 github 홈페이지 <br>
 
 |연락처 | ktw23723@gmail.com|
-|자격증| 
-|| 2021년 SQLD |
+|자격증| <br>
 || 2021년 ADsP |
+|| 2021년 GAIQ|
 
 |IT 교육|  
 Tableau Software 프로그램을 활용해 범주형 데이터와 수치형 데이터 등을 구분하여 시각화 연습  <br>
